@@ -1,7 +1,9 @@
 # Where is geography?
 _Dataset of all U.S. institutions of higher education that offer a degree in geography as of 2021, with information as to the type and level of degrees offered, the program/department name, and, finally, the administrative unit in which geography is housed per institution._
 
-
+  
+    
+    
 Geography as a discipline spans the arts and sciences, with degrees awarded in either faculty. This academic diversity is reflected by the range of administrative units in which geography is housed. Administrative units, such as colleges, schools, and divisions, group together departments and programs within U.S. institutions of higher education. The structural organization of institutions therefore offers insight into how disciplines are perceived, both in relation to one another and as situated within branches of knowledge. Whether geography is viewed as more of an art or more of a science carries potential implications for funding, geography’s physical location on campus, interdepartmental collaborations and intradepartmental synergies, student advising, curricula, and degree offerings. While my research has focused on geography degree offerings in relation to the subject’s administrative placement, the dataset I created for this study is published here in hopes that readers may use, evolve, and reinterpret its contents to explore these remaining relations.
 
 
