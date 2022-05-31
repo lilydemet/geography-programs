@@ -12,10 +12,6 @@ This dataset lists  U.S. institutions of higher education that offer a degree in
 
 
 ### Field Names
-disc - disciplines (from AAG dataset)  
-
-link - url to program page  
-
 state - U.S. state in which university is geographically located  
 
 inst - institution name  
@@ -43,6 +39,11 @@ MS - " Master of Science "
 MA - " Master of Arts "  
 
 PhD - " Doctoral "  
+
+disc - disciplines (from AAG dataset)  
+
+link - url to program page  
+
 
    
    
